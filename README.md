@@ -156,7 +156,7 @@ Clone it, run it, modify it, break it – it's yours to explore!
 * [Baeldung – Inheritance in Java](https://www.baeldung.com/java-inheritance)
 * [Oracle Docs – Abstract Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
 * [GeeksForGeeks – Polymorphism](https://www.geeksforgeeks.org/polymorphism-in-java/)
-* [Java T Point – Method Overriding](https://www.javatpoint.com/method-overriding-in-java)
+* [Java Method Overriding](https://www.programiz.com/java-programming/method-overriding)
 
 ---
 
